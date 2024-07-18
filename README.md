@@ -14,6 +14,18 @@ pnpm dev
 bun dev
 ```
 
+```test
+
+npm test
+```
+
+```Included features:
+- Homepage :
+  - Search Post by title
+- Add New Post Page:
+  - Add new post
+```
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
